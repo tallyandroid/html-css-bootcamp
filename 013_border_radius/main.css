@@ -1,0 +1,31 @@
+div {
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url(img/bmw.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px groove orangered;
+    height: 200px;
+    width: 200px;
+}
+
+.one {
+    border: 10px dashed orangered;
+}
+
+.two {
+    border: 10px dotted orangered;
+}
+
+.three {
+    border: 10px double orangered;
+}
+
+.four {
+    border: 10px groove orangered;
+}
